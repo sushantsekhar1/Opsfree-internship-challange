@@ -1,0 +1,6 @@
+What algorithm, machine learning, or AI approaches would you take to find anomalies in the duration of a span? And why do you think that approach is a good approach?
+
+-> The algorithm to find anomalies in the duration of a span is an Isolation Forest. Isolation Forest is an unsupervised anomaly detection algorithm that works by isolating anomalies by randomly partitioning the data.
+-> Isolation Forest is a good approach for this problem because it is unsupervised, which means that it does not require labeled data for training.
+-> Solation Forest is efficient and can handle large datasets.
+-> Isolation Forest is suitable for detecting outliers or anomalies in duration.
